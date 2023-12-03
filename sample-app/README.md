@@ -1,5 +1,5 @@
-# (3.4 HELLO APP) Getting Started with Create React App
-
+# (3.4 HELLO APP) Getting Started with Create React App 
+### reference to sample app example
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
